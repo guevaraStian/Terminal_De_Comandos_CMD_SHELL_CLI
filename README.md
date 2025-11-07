@@ -1,4 +1,6 @@
-COMANDOS TERMINAL BASICOS
+
+<h1 style="font-size: 3em; color: #FF0000;">•  TERMINAL DE COMANDOS CMD SHELL </h1> 
+
 
 - Framework
 - Hacking
