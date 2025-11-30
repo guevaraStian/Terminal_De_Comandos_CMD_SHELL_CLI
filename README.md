@@ -1,5 +1,5 @@
 
-<h1 style="font-size: 3em; color: #FF0000;">•  TERMINAL DE COMANDOS CMD SHELL </h1> 
+<h1 style="font-size: 3em; color: #FF0000;">•  TERMINAL DE COMANDOS CMD SHELL POWERSHELL</h1> 
 
 
 - Framework
