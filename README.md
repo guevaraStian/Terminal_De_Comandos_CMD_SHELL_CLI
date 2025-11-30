@@ -13,8 +13,8 @@ Luego de descargar git, Los comandos para acceder al repositorio son los siguien
 ```Terminal de comandos
 git --version
 git init
-git clone https://github.com/guevaraStian/Comandos_Terminal_Basicos.git
-cd Comandos_Terminal_Basicos
+git clone https://github.com/guevaraStian/Terminal_De_Comandos_CMD_SHELL.git
+cd Terminal_De_Comandos_CMD_SHELL
 git push origin master
 ```
 ---------
