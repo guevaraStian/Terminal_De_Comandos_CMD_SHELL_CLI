@@ -19,3 +19,4 @@ git push origin master
 ```
 ---------
 
+Luego de haber descargado el repositorio de cmd shell, procedemos a buscar el que necesitamos.
