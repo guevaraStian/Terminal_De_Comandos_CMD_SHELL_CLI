@@ -8,7 +8,7 @@ Este repositorio tiene 4 carpetas, donde cada carpeta tiene una area en la cual 
 - Redes routers y switches
 - Sistemas operativos
 
-El comando de consola para intalar GIT en cada sistema operativo es el siguiente.
+El comando de consola para intalar GIT en cada sistema operativo en ese orden,es el siguiente.
 
 WINDOWS
 ```Windows
