@@ -37,6 +37,6 @@ git push origin master
 ```
 ---------
 
-Luego de haber descargado el repositorio de cmd shell, procedemos a buscar el que necesitamos.
+Luego de haber descargado el repositorio de cmd shell, procedemos a buscar el archivo que necesitamos navegando en la carpeta descargada
 
 <h2> ¡¡ ADVERTENCIA !! , TODOS LOS SOFTWARE DE ESTE REPOSITORIO, RELACIONADOS A CIBERSEGURIDAD TIENEN FUNCIONES EDUCATIVAS Y PEDAGOGICAS, NO DEBEN USARSE PARA VIOLAR PRIVACIDADES, NO DEBE USARSE SIN CONSENTIMIENTO DEL PROPIETARIO DEL DISPOSITIVO A HACKEAR. SON PROGRAMAS DE HACKING ETICO Y LA PERSONA QUE ACCEDAN A ESTOS SOFTWARE SON RESPONSABLE DE SU USO.</h2> 
