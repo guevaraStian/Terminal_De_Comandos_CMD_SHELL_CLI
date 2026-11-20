@@ -1,7 +1,7 @@
 
 <h1 style="font-size: 3em; color: #FF0000;">•  TERMINAL DE COMANDOS CMD SHELL POWERSHELL CLI</h1> 
 
-Este repositorio tiene 4 carpetas, donde cada carpeta tiene una area en la cual hay varios archivos de texto que en su interior tienen comandos de cmd shell poweshell y cli, que tienen diferentes funciones. Este repositorio se encuentra dividido en 4 carpetas y son las siguientes.
+Este repositorio tiene 4 carpetas, donde cada carpeta tiene una area en la cual hay varios archivos de texto que en su interior tienen comandos de cmd shell poweshell y cli, que tienen diferentes funciones. Este repositorio se encuentra dividido en 4 carpetas, donde cada carpeta muestra diferentes comandos de consola para diferentes actividades y son las siguientes.
 
 - Framework
 - Hacking
